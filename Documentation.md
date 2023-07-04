@@ -1,0 +1,20 @@
+![University Logo](https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_unipoli.png)
+
+# SOFTWARE ENGINEER BIS
+
+## SOFTWARE MAINTENANCE
+
+### EARLY DETECTION OF DISEASE IN PATIENTS WITH MEDICAL CONDITIONS
+
+## BY:
+
+- FAVELA CAZARES SEBASTIAN
+- GUTIÉRREZ FLORES ALONDRA
+- MORALES HERNÁNDEZ ERICK MANUEL
+- NÁJERA AGUILAR CARLOS LEONEL
+- VALENZUELA SAUCEDO HUMBERTO
+
+#### TEACHER: OSCAR DIAZ CARRILLO	
+#### 8th QUARTER GROUP “B - BIS”
+
+----------------------------------------------------
